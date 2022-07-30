@@ -1,6 +1,6 @@
 # Count-Primes
 Given an integer n, return the number of prime numbers that are strictly less than n.
-
+https://leetcode.com/problems/count-primes/
 
 Example 1:
 
